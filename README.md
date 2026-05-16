@@ -3,6 +3,10 @@ Projet SLmediation &amp; F-ROBOTICS.FR
 
 ---
 
+Documentation en cours de rédaction
+
+---
+
 <table width="100%">
 <td align="center"><img src="images/IMG_5774.jpeg" ></td>
 <td align="center"><img src="images/IMG_5775.jpeg" ></td>
